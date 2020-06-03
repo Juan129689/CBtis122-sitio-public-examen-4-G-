@@ -1,0 +1,36 @@
+[{
+    "nombre":"Baldomero Romero Ressendi",
+    "corriente":"Barroco",
+    "pais":"España",
+    "pintura":"madamecat.jpg"
+},
+{
+    "nombre":"Francisco de Goya",
+    "corriente":"Rococo",
+    "pais":"España",
+    "pintura":"saturno.jpg"    
+},
+{
+    "nombre":"Pablo Ruiz Picasso",
+    "corriente":"Cubismo",
+    "pais":"España",
+    "pintura":"azul.jpg"
+
+
+},
+{
+    "nombre":"Johannes Vermeer",
+    "corriente":"barroco",
+    "pais":"Noruega",
+    "pintura":"son.jpg"
+
+},
+{
+    "nombre":"Remedios Varo",
+    "corriente":"Surrealismo",
+    "pais":"España,Mexico",
+    "pintura":"remvos.jpg"
+
+}
+
+]
